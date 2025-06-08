@@ -1,0 +1,12 @@
+language;Language
+maximumFPS;Maximum frames/sec
+volume;Volume
+apply;Apply
+default;Default
+back;Back
+controlSettings;Control settings
+cancel;Cancel
+keyboard;Keyboard
+graduallyShowingText;Gradual display of text
+continue;Continue
+autosaves;Autosaves

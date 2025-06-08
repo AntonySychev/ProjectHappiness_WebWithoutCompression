@@ -1,0 +1,840 @@
+hint1;Hint 1: If the text starts with "-", it means the main character is speaking out loud.
+hint2;Hint 2: If the text begins with quotation marks, then these are the thoughts of the main character.
+1;Russia, nameless village. A story about an ordinary Russian guy.
+2;You wake up. Head is buzzing, as if you were hit with a sledgehammer.
+3;Twice.
+4;Yesterday was your friend's birthday.
+5;"Yes, we had a good rest yesterday."
+6;The body is heavy, it’s hard to even move a finger.
+7;After a couple of minutes, you finally started to come to your senses and were able to open your eyes.
+8;There's not a cloud in the sky. There is no wind. No sound (except the buzzing in the head).
+9;"Strange. Something is not right. Need to get up."
+10;"Strange. Something is not right. Need to get up.": Stand up sharply
+11;Get up
+12;Rise carefully and slowly
+13;Having come to your senses, you decided to look around.
+14;There is a ditch to your right. There was a bottle filled with some kind of liquid.
+16;Drink the contents?: Yes
+17;The bottle contained a mixture of alcohol and ditch water.
+18;Your body could not withstand such a test of strength and you gave up the ghost.
+19;No
+20;"Surely this is water from a ditch or some kind of swill that can make you blind."
+21;"Need to see what's going on in the village. I'll go there".
+22;Silence. All houses are closed.
+23;"Where has everyone gone?"
+24;"Oh yes, today there is a wedding in another village and everyone is there. So I'm the only one here."
+25;You noticed a flying saucer standing in the middle of the road.
+26;"Where did it come from?"
+27;Going around it, you didn't find anything.
+28;Except for some small lightnings surrounding the device.
+29;"Maybe something like a force field? Come on..."
+30;You are trying to touch a flying saucer. Surprisingly, you manage to do it.
+31;So, there is no field. Well, I didn't really want it!
+32;Inside the flying saucer it turned out to be somehow...empty.
+33;A transparent canister with a clear blue liquid, about two-thirds full.
+34;Colored holograms of buttons - red and green.
+35;There was nothing else.
+36;Drink from a canister
+37;"It smells like donkey urine."
+38;"But it tastes good."
+39;You put the canister back. It's now about a third full.
+40;Finish the liquid
+41;"The samurai go all the way!"
+42;As soon as you emptied the canister, you began to experience severe gas formation.
+43;It became too difficult to contain it.
+44;There was a huge explosion that did not leave an atom even from a flying saucer.
+45;This led to the emergence of an exclusion zone.
+46;Press the red button
+47;The flying saucer exploded. Apparently, it was a self-destruct button.
+48;Press the green button
+49;The canister was emptied. Through the porthole you can see that the saucer has stopped between the Earth and the Moon.
+50;Without a spacesuit you can't breathe. The buttons are blocked.
+51;You felt a little jolt.
+52;"Are these instead of massage chairs? A useless thing."
+53;You spat on the green button. And then decided  inspect the device at last.
+54;A lot of liquid has disappeared in the canister. Twenty to thirty percent left.
+55;After leaving the saucer, you found yourself in some large city.
+56;Almost every building had its own architectural style.
+57;You noticed that next to you was the inscription "Parking", made in many languages.
+58;The streets were empty.
+59;Suddenly, a voice rang in your head.
+60;Voice: Welcome!
+61;"So i'm hallucinating that strong. What we consumed yesterday really was alcohol?"
+62;Voice: You are not hallucinating. You found yourself in a city on the Moon.
+63;"I heard that if you give in to hallucinations, they will pass faster."
+64;- Where is the toilet?
+65;Voice: Every resident has his own house. It also has a toilet.
+66;"Ha, and you call yourselves aliens? But in our village everything around us is a toilet!"
+67;Voice: No one prevents you from doing so in your home.
+68;- Do you have to pay taxes on the Moon?
+69;Voice: No.
+70;"Truly a Paradise."
+71;- Where are the aliens? Did I get there in vain?
+72;Voice: Due to the high development of alien life, residents usually do not leave their homes.
+73;"Ah, I get it. My neighbor is like this. He also constantly screams that some unskillfully dudes got him."
+74;Keep silent
+75;Voice: Frankly, you shouldn't be here.
+76;"Just like you in my head! Get out!"
+77;Voice: Was the flying saucer really empty?
+78;"No, there was a canister there. And the buttons."
+79;Voice: Very strange. Then we need to figure out what happened. You will be given a card.
+80;Voice: And you are prohibited from transmitting it without permission. And yes, in the canister was fuel!
+81;With these words, you found yourself in a room similar to a bedroom.
+82;"Eh, we didn't finish! Which card? Do you need another SIM card on the Moon?"
+83;A creature appeared out of nowhere in the room.
+84;With eyes and face it resembled the Grays from science fiction, but was completely white.
+85;And he's also a three-meter tall jock.
+86;"Oh, here comes the coolest guy in the area. And there's nowhere to run."
+87;Jock: Welcome to city our! Name my is Kh'arg. On the situation I'll brief you.
+88;The jock spoke so fast that you couldn't get a word in.
+89;Kh'arg: The flying saucer you shouldn't have found.
+90;Kh'arg: We are already looking into the situation and to Earth a squad has been sent.
+91;Kh'arg: As soon as clears up everything, back you will be sent.
+92;Kh'arg: We have already studied memories your. Apparently, something to the pilots happened.
+93;Kh'arg: In your room A lot of things are blocked, because not a resident of the city you are.
+94;Kh'arg: But it is not forbidden to use you are used to objects.
+95;The jock disappeared as suddenly as he appeared.
+96;"He will bring up to date. I still don't understand anything!"
+97;"It's like I'm back at the university. It seems like they are explaining something, but it doesn’t get any easier."
+98;Suddenly you find yourself in a different place again. However, nothing new.
+99;The room resembled a dining room. Unfamiliar characters were sitting in front of you.
+100;The first one looked like a man with a metal head.
+101;The second one is an enormous double-headed purple cat with a spiked tail.
+102;The third looked like an ordinary man-a brunette about one meter twenty centimeters tall.
+103;- Where am I again? And who are you? I'm not tasty!
+104;Cat: You're at the resistance headquarters. It's hard for you right now, but I'll try to clarify the situation.
+105;- Talking cat!
+106;Cat: (ignoring your remark) We are the guardians of this city. But there's a lot we don't like.
+107;Cat: First of all, only creatures that will die in a year or less get here.
+108;Cat: Alien technology allows to track even this throughout the universe.
+109;Cat: Such creatures are kidnapped and truly heavenly living conditions are created for them.
+110;Cat: All your wishes will be fulfilled. Actually all. Technologies allow.
+111;Cat: But on the day of death, the residents disappear somewhere. And they don't appear anymore.
+112;Cat: We want to find out what's really going on.
+113;Cat: And this is where you come in handy. You shouldn't have come to this city.
+114;Cat: You're not in the tracking system. You won't die in the next year.
+115;Cat: In addition, the guards who flew to Earth on a saucer have disappeared. That's how you got here.
+116;Cat: There won't be another chance like this!
+117;Cat: It's time to get acquainted. Our names are unlikely to tell you anything, so nicknames will suffice.
+118;Cat: I am the Leader.
+119;Leader: This is (points at the robot) Quick-sighted. He's a cyborg. His eyes see the invisible.
+120;Leader: And this is (points to the brunette) Gnome.
+121;Gnome: You're a Gnome yourself! (Whispering) Well at least not a dwarf.
+122;- Dwarves are cooler.
+123;Gnome opened his mouth to object, but the Leader delicately coughed each head and continued.
+124;Leader: And what's your name?
+125;- Let it be a Guest. Where did you even get the idea that I want to help you?
+126;Leader: Are you really thinking of leaving alive? Helping us is the only way.
+127;- I'm all ears.
+128;Leader: Let's go to the knowledge repository first. It's a kind of library.
+129;Leader: Surely there is some kind of secret level there. But first you need a weapon, just in case.
+130;Leader: Hold a blaster and gauntlet shield. The shield is activated by pressing a button on the index finger.
+131;You find yourself in an unknown place again. It really looked like a library.
+132;Only in addition to books there were also disks, some cubes and various devices.
+133;Leader: The repository is very high, so I'm sure we need to go underground.
+134;You decided to take a book with a beautiful gold binding.
+135;And again found yourself in an unknown place.
+136;- How long will this last?
+137;The place was a small empty dark room without windows or doors.
+138;Voice: You have been transported to the correctional floor of the Repository. It is strictly forbidden to take exhibits!
+139;- You again! And anyway, what kind of library is this where you can’t take anything?
+140;There was no answer.
+141;Sit down to meditate
+142;After many hours of meditation, you learned Zen and were reborn as an elf prince in another world.
+143;Spit furiously on the floor
+144;Due to the peculiarities of the material, the spit ricocheted with incredible speed and pierced your skull.
+145;Kick the wall
+146;Due to the peculiarities of the material, the blow returned to you a hundredfold and you were torn into pieces.
+147;Get stuck in the phone
+148;The brightness of the phone has been adjusted for outdoor use on a sunny day.
+149;In a dark room, you went blind, and your heart could not stand such a test.
+150;Shoot a wall with a blaster
+151;Cut your finger and pray to Cthulhu
+152;Out of nowhere, tentacles appeared and broke through one of the walls.
+153;Then Cthulhu wrapped a Band-Aid around your finger wound and gave you cookies with tea.
+154;Cthulhu: Nothing personal, I just hate aliens.
+155;Cthulhu: I'll go eat sectarians, so next without me.
+156;The beam from the blaster ricocheted and headed towards you.
+157;Wait for what happens
+158;The beam incinerated you.
+159;Evade
+161;The beam continued to ricochet and you had to dodge further.: Keep dodging
+162;After a while you get tired.
+163;Shoot at the wall ahead of time
+164;Turn on the shield
+166;The beam continued to ricochet, but you were safe as the shield surrounded your body.: Wait
+167;After a while the shield charge ran out.
+168;Strike a cool pose
+170;When two lasers meet, an explosion occurs. Like in cartoons.
+171;There was a hole in one of the walls now.
+172;It was relatively light outside. The ceiling flickered red.
+173;There were walls on the left and right edges. All that remained was to go forward.
+174;Go forward
+175;Wait for the guide
+176;After a while the guards arrived and incinerated you from blasters.
+177;Complain to mom
+178;Unfortunately, there is no connection.
+179;Google the route to Earth
+180;Unfortunately, there is no internet connection.
+181;For a while you walked only along the walls.
+182;Then noticed a room ahead, and there the aliens were playing backgammon.
+184;Judging by the blasters on the transparent table, these are guards. And you were noticed.: Try to destroy them
+185;The guards reacted faster than you could take the blaster.
+186;One of them pressed some button on the table and you were flattened by a hammer blow from above.
+187;Show the chicken dance
+188;The guards silently waited for you to stop dancing, after which they incinerated you with a blaster.
+189;Throw a blaster at a guard's face
+190;The guard threw his own in response, piercing your skull.
+191;- Can you tell me where the exit is?
+192;- I'm a little lost.
+193;The guards pointed to the passage behind them and continued the game.
+194;Join
+195;"And how to play backgammon?"
+196;You thought it looked like "Chapaev", so you shot the chip.
+197;The guard disagreed and incinerated you with a blaster.
+198;Salute
+199;- May I report?
+200;The guards gestured to you "Shoo-shoo" and you went further down the corridor.
+201;- Corn, churchkhela, pasties
+202;The guards quickly lost interest in you and continued the game.
+203;You walked further down the corridor, continuing to repeat the saving phrase.
+204;- You can go, I'll replace you
+205;The guards quickly packed their things and disappeared.
+206;You waited a bit and went further down the corridor.
+207;- Shall we dance?
+208;The guards did not appreciate your offer and incinerated you with a blaster.
+209;After some time wandering through the corridors, you came across a room.
+210;There were 4 things in it that looked like portals from science fiction.
+211;Orange, green, polka dots and triangle.
+212;You can't see anything behind them.
+214;Which portal to enter?: Orange
+215;Green
+216;Polka dots
+217;Triangle
+218;You find yourself in another room with a lot of vats of molten metal.
+219;From the opposite end of the room there was a conveyor, which turned not far from you.
+220;And then he gradually climbed up, straight to the only passage here.
+221;Mechanical hand periodically picked up items from the conveyor and dumped them into vats.
+222;Scoop it out of the vat and drink it
+223;To your surprise, the liquid turned out to be too hot and tasteless.
+224;Take a bath in a tub
+225;You loved going to the bathhouse, so at first it was not even bad.
+226;But then suddenly it got hotter and hotter and you didn't have time to get out.
+227;Lie down on the conveyor
+228;The hand took you by the scruff of the neck and lowered you into the vat.
+229;Jump on the hand
+230;The hand swung back and on the way back threw you into the passage.
+231;Running up the conveyor
+232;You have reached the passage safely.
+233;Mechanical hands distributed items from the conveyor along different paths.
+234;You calmly drove to the end and found yourself on a small platform.
+235;There was something like a control panel in front of you.
+237;Far below, a black portal was visible. But how to get there?: Jump
+238;You fell to your death.
+239;Running up, jump straight down
+240;You really got straight into the portal! It's good that it dampens the speed.
+241;Cannonballed
+242;Your pieces are scattered all over the site.
+243;Activate the shield and jump
+244;You have successfully landed and entered the portal.
+245;Press the up arrow
+246;A mechanical hand appeared out of nowhere, took you by the scruff of the neck and placed you in front of the portal.
+247;"Should have brought extra pants with me. I reached the portal, but at what cost?"
+248;Press the down arrow
+249;The platform began to descend like an elevator. You have safely reached the portal.
+250;You found yourself in the midst of a "sea" of greenery. But white.
+251;The green sun was shining overhead in the yellow sky.
+252;On the left was a plant similar to a sunflower, but large and constantly changing color.
+253;Behind the flower was a wall. There was also a wall on the right.
+254;Ahead is a purple stream, on the other side of which a black portal can be seen. And behind it is a wall.
+255;Approach the plant
+256;When you came closer, at first appeared the sunflower's eyes...
+257;Then - a mouth full of sharp teeth.
+258;That was the last thing you saw.
+259;Shoot the plant with a blaster
+260;To your surprise, the plant evaded.
+261;Activate the shield and approach the plant
+262;Approach the stream
+263;Burn the plant with a blaster
+264;You found some kind of passage under the plant.
+265;Enter the passage
+266;You went straight to the black portal.
+267;Get away out of harm's way
+268;Pet the flower
+269;The flower showed a huge tongue with which it licked your shield.
+270;Then he began to rub against you and make sounds similar to purring.
+271;When he had played enough, something similar to a hand appeared from under the ground.
+272;It shot you straight into the portal.
+273;Eat a seed
+274;When interacting with saliva, the seed produced a strong explosion.
+275;Eat a petal
+276;"Tastes like fried potatoes."
+277;The world around began to shimmer with all possible colors.
+278;Ahead you noticed a dancing big-eyed house with unicorns running on the roof.
+279;Three-headed pink bearded sharks were walking around the house.
+280;Some of them were riding huge purple chickens.
+281;You found a pie in your pocket and decided to eat it.
+282;Have a drink
+283;The liquid turned out to be an acid that quickly increases in volume when interacting with saliva.
+284;On the other hand, you began to quickly decrease in volume.
+285;Cross the stream
+286;The liquid turned out to be an acid, quickly shrinking you, starting from your feet.
+287;Soon there is not even an atom left of you.
+288;Activate the shield and cross the stream
+289;You made it to the other side and entered the portal.
+290;You found yourself sitting at a table in a small room and tied to a chair so that you couldn't move.
+291;There was a mechanical tentacle in front of you.
+292;Voice in the head: Welcome to the dining room!
+293;"What kind of food is this that a person needs to be tied up? And when did you manage to do this?"
+294;Voice: This is for your own convenience. The tentacle feeds you with a spoon, and you rest.
+295;"And why tie??"
+296;Voice: To make sure that you eat. The chair, due to the supply of impulses, allows to control your mouth.
+297;A menu appeared in front of my eyes.
+299;"Which soup to choose?": Warming
+300;Cooling
+301;Fish
+302;Color changing
+303;Poisonous
+304;Explosive
+305;Swelling up
+306;Luxurious
+307;Invigorating
+308;Infinite
+309;Voice: Usually you need to eat a special pill before it, but since you insist.
+310;Voice: Magma soup with stones flavored with ash.
+311;"Too warming!"
+312;Voice: Usually it is eaten in extreme heat, but as you wish.
+313;Voice: This soup is served at absolute zero temperature.
+314;Voice: Soup with fishes with strong scales and devouring you from the inside.
+315;"I should be the one eating the soup, not it eating me.!"
+316;Voice: This is a favorite delicacy of races with strong insides.
+317;Voice: This is the only way they can scratch themselves from the inside.
+318;Voice: The main thing is not to chew the fish, otherwise you will break your teeth.
+319;"Broken teeth are the least of the problems!"
+320;Voice: Soup with lots of spiritualistic herbs.
+321;The dish changed its color every moment.
+322;"Is this really edible?"
+323;Voice: Certainly.
+324;The dish turned out to taste unusual. After all, the taste also changed every moment!
+325;When you were completely fed soup, it began to seem to you that something was wrong.
+326;But what?
+327;The fact that the world around has become dazzle with all possible colors?
+328;Or that the mechanical tentacle was constantly changing shape?
+329;Spaghetti, a school of fish, someone's hand, a mushroom, countless other shapes.
+330;Or the fact that instead of a table, you saw different creatures every moment?
+331;Turtle, cat, bear, motorcycle, many others.
+332;Voice: Rhinos run on caterpillars backwards .
+333;"Excuse me, what?"
+334;Voice: Cattish sunflowers smoking meatballs after volcano rain on Tuesday.
+335;"Does cycling pizza run or do push-ups on Wednesdays after breakfast?"
+336;Voice: In fact, pours lemonade on car sprouts.
+337;The world gradually began to return to its normal state.
+338;"Good soup and interesting side effects."
+339;Voice: A favorite treat for races with immunity to poison.
+340;Voice: Many creatures are interested in eating something that can kill. Even you people, for example, have puffer fish.
+341;The soup contained several poisons.
+342;Paralyzing. Causing sometimes fever and sometimes chills. Causing weakness.
+343;Causing hallucinations. Convulsive.
+344;"Praise Odin that the cook forgot to put the deadly poison. Or is that how it was intended?
+345;Voice: The main ingredient is “grenade” meatballs, simulating explosions inside the body.
+346;Voice: They periodically emit a characteristic sound and shoot compressed air.
+347;Voice: Due to this, it seems to you that you are exploding from the inside.
+348;The soup turned out to be quite tasty.
+349;But would you like to repeat these feelings?
+350;Voice: Inside the body, the soup begins to increase in size.
+351;Voice: Ideal for hiking and the army.
+352;Unfortunately, the soup grew in size too quickly.
+353;Voice: Few people survived after this soup. It's too delicious!
+354;You only managed to eat one spoonful and your heart stopped.
+355;Voice: The perfect breakfast if you haven't fully woken up yet.
+356;Voice: The main ingredient is electric algae.
+357;Voice: You will be electrocuted with every bite.
+358;The current turned out to be non-lethal, so with difficulty, but the soup was defeated.
+359;You will never forget this taste!
+360;To your surprise the portion size was normal. The taste is not bad.
+361;"And why infinite?"
+362;After a while the tentacle stopped.
+363;"What's the matter? I want more!"
+364;Voice: You've already had enough.
+365;You notice that the amount of soup in the bowl has not changed.
+366;"Well, at least a little more! Oh please!"
+367;The tentacle fed you for a while, but then you felt that you were no longer chained.
+368;And began to devour the soup greedily. Even though you had already eaten too much, you wanted more and more.
+369;"Just how does it fit in?"
+370;And nothing were changing on the plate.
+371;You felt that you were no longer tied to the chair.
+372;A black portal appeared ahead, to which you headed without much hesitation.
+373;You find yourself in front of a pyramid similar to the Egyptian one, but smooth, without blocks.
+374;In front of the entrance there was a sign with the inscription "Portal inside" in many languages.
+375;Enter the pyramid
+376;Go in the opposite direction
+377;The desert didn't want to end. Unlike your energy.
+378;It seemed to you that the sand and the scorching sun would dream of you in nightmares even in the next world.
+379;But you fed several hyenas.
+380;Climb the pyramid
+381;"Who knows, maybe the portal is at the very top?"
+382;After several hours of unsuccessful attempts, you fell exhausted.
+383;Go around the pyramid
+384;"The portal is probably at the very end of the pyramid".
+385;Once on the opposite side, you melted a hole in the wall with a blaster and went inside.
+386;Your guess turned out to be correct - there was a portal here!
+387;Digging under
+388;You successfully created a path with a blaster, then made a hole in the pyramid.
+389;And ended up in a room with a portal! Not wanting to push your luck even further, you entered it.
+390;After walking down the corridor for a while, you came across a room.
+391;It was filled with giant spider eggs. At the end there was a passage further.
+392;But next to him was a giant spider. He was probably asleep, since he didn't notice you.
+393;Cook scrambled eggs
+394;The spider did not appreciate your culinary skills and decided to demonstrate his own.
+395;To begin with, he spat acid at you and let it brew thoroughly.
+396;Then bit into several pieces, salted, peppered and decorated the dish with cobwebs.
+397;Posted the photo on the Internet and only then ate it.
+398;Jump while whistling
+399;The spider woke up and watched you for a long time, but then couldn’t resist and asked
+400;Spider: Are you really that stupid?
+401;Go slink
+402;You successfully reached the opening and showed the spider your tongue.
+403;Kick the spider
+404;The spider woke up and for a long time could not believe your impudence.
+405;Shoot the spider
+406;Kick any egg
+407;The kick caused a chain reaction, which caused all the spiders to hatch.
+408;The spider woke up and wrapped you in a cocoon, and then fed you to the spiders.
+409;The next room after wandering through the corridors turned out to be a bar.
+410;The mummy bartender stood with his back to you and prepared drinks.
+411;Behind the counter sat a crocodile, an enormous scarab and an alien.
+412;At the end of the room there was a passage further.
+413;Sneak past
+414;You have reached the goal without any problems.
+415;- Is there anything free?
+416;Bartender: Unfortunately, no.
+417;- Did I go then?
+418;Bartender: Yes. Did you think a crocodile would eat you?
+419;Keep silent and look away
+420;- Of course not.
+421;- It’s clear from him that he’s well-mannered and smart.
+422;The crocodile blushed and embarrassedly bit off your head.
+423;- This is a bar of cool dudes, isn't it?
+424;Alien: Well, yes.
+425;- Then what are you doing here?
+426;- So I'm at the right place.
+427;- Hey, bartender!
+428;The whole group turned on you.
+429;- Bet I can wipe the floors with you?
+430;Bartender: Finally a man with a sense of humor?
+431;Bartender: Here you go, on the house.
+432;He put down a glass of greenish liquid.
+433;- And what is it?
+434;Bartender: Uranium vodka. This is the bomb, bro, try it.
+435;Crocodile: Yes, your life won't be the same anymore.
+436;Drink
+437;- Uranium? No, thanks.
+438;Bartender: Eh, you're disappointing. Well, at least a sip, eh?
+439;- Ok, I'm sold.
+440;- No means no!
+441;Bartender: Мне больше достанется.
+442;The mummy drank the liquid in one gulp, after which it shuddered.
+443;Bartender: Uh, good! Go where you were going.
+444;Instead of a bar, an alien battle broke out in front of your eyes. They shot each other with flowers.
+445;After being hit, fireworks appeared, each spark of which then exploded.
+446;Every second the battle location, weapons, surrounding and colors changed.
+447;There were cats riding on rockets and trees with mushrooms instead of leaves.
+448;Crocodile: Well, I told you, you can't give so much to beginners! He doesn't hear anything.
+449;Scarab: But definitely our man! Look how he hallucinates.
+450;Alien: Should have at least given the cesium wine to start with.
+451;Mummy: Let's take him to the portal to make him even more crazy.
+452;Alien: Ha, great idea.
+453;After the hallucinations stopped, for a while you still saw everything in green.
+454;"Portal! But I was at the bar..."
+455;"Oh no! Anyway..."
+456;It seemed like an eternity before you finally found the room with the portal.
+457;You find yourself in a small room, somewhat resembling a knowledge repository.
+458;On the opposite side of the entrance there was a familiar black portal.
+459;"There is clearly something hidden here, since it is so hard to get here. Need to dig through everything."
+460;"This time it will also teleport, when will I pick up the book?"
+461;Closing your eyes, you cautiously picked up the first book you came across.
+462;When you open your eyes, you don't notice any changes around you.
+463;After hours of searching, you haven't found anything. Except one data cube.
+464;Project "Happiness".
+465;With the development of technology, people, in theory, should be happier and happier.
+466;But in few places this happens.
+467;There are very few happy residents. Especially if you consider the whole life, and not just a moment.
+468;But the happier the resident, the less likely he is to commit a crime.
+469;If healthy, of course.
+470;The goal of the project is to try to make residents happy.
+471;Every day, not just once.
+472;Take creatures that have only a year left to live as “test subjects”.
+473;And deliver them to the test complex, in one of which the reader is currently located.
+474;If you fulfill all the wishes of the residents, create all the conditions for them, will they be happy?
+475;Or will they get used to it and take it as a new reality?
+476;Or maybe all this does not affect the level of happiness at all?
+477;If the project will be successful, the lives of all sentient beings can be changed for the better.
+478;After all, the methods worked out in the complexes can be implemented in real cities.
+479;"Eh, the date is missing. Perhaps it's worth taking this cube".
+480;You went to the portal.
+481;A group was waiting for you in the vault.
+482;Leader: Well, finally! Where have you been?
+483;- I escaped from prison, by the way! You can't touch books.
+484;Leader: Oh, yes, we didn't issue you a pass. This is awkward.
+485;- It doesn't matter anymore, I dug up something. What about you?
+486;The Leader only spread his paws in response.
+487;You find yourself back in the room that looks like the dining room where it all started.
+488;Leader: I think there's really a clue in that data cube.
+489;Leader: It’s strange to put such an emphasis on happiness.
+490;Leader: Not to cure diseases, not to increase life expectancy.
+491;Leader: Not to reduce the stratification of society. You can list a lot of things.
+492;Leader: Now we need to find out where the residents are disappearing to.
+493;Guest: Maybe they'll be teleported back?
+494;Leader: What is the point? After all, they disappear on the day of death.
+495;Guest: But how can a person die if all conditions are created for him here?
+496;Gnome: I heard something about it being Fate. It does not matter where the resident is and in what condition.
+497;Gnome: Even if he is healthy and sitting at home. On the day of death he is destined to die.
+498;Gnome: His heart may stop. There may be a brain hemorrhage.
+499;Gnome: The knife can slip out and cut a vein. There are many options, especially outside the home.
+500;Guest: But you're saying that residents are disappearing, not dying. Are they being taken somewhere? For what?
+501;Leader: That's what we want to know. We need to get to where data about residents is stored.
+502;Leader: That way we can find out who's going to die soon.
+503;Leader: And then we'll see where they disappear. But there is one problem.
+504;Leader: We don't have access to this building.
+505;Leader: And before going to the repository, we had no idea where the information was stored.
+506;- Isn't there a back door?
+507;Quick-sighted: Yes, but there was only a mention of it in the records.
+508;Leader: The plan is - I'm too big and conspicuous, so I'm staying here.
+509;Leader: And you all go on a mission. Quick-sighted will find out where the back door is, then you will figure it out.
+510;Leader: Besides, I have more important things to do - I need to lick myself.
+511;Quick-sighted: The goal in the Distribution System of Residents.
+512;- Wait, aren't there cameras and security systems there? Are we just going to go?
+513;Leader: There may be security systems, but there are definitely no cameras outside.
+514;Leader: Residents are sitting at home, what's the point?
+515;After several tens of minutes of walking around and around the building, Quick-sighted stopped.
+516;Quick-sighted: I found a passage, but it needs to be activated. Buttons are invisible.
+517;Quick-sighted scurried back and forth for a while, making passes with his hands, after which the passage in the wall opened.
+518;You find yourself in a room that looks like an office.
+519;- Quick-sighted, do you see any passages?
+520;Quick-sighted: Not yet. Apparently, something needs to be done to move on.
+521;- Why is the office so, uh, human? Where are the technologies of the future?
+522;Quick-sighted: How should I know?
+523;Gnome: Maybe it's made for people.
+524;Press the pen cap
+525;A powerful explosion occurred.
+526;View records
+527;Half an hour later you got to the last piece of paper.
+528;There was very little text on it - “Whoever reads it will die”.
+529;"I'm wasting my time here, and they're inserting memes!"
+530;Suddenly your heart stopped.
+531;Turn on the TV
+532;Sit on a chair
+533;The mechanism abruptly lifted the chair to the ceiling and you were flattened.
+534;Turn on the computer
+535;The computer hummed so loudly that the sound wave tore your internal organs.
+536;Open the closet
+537;A  skeleton was sitting in the closet.
+538;Skeleton: This is an assault on private property! You have no right!
+539;And incinerated you with a blaster.
+540;You started getting sucked into the TV. A second later you were already in a different place.
+541;Quick-sighted: Have we been teleported?
+542;- You'll get used to it.
+543;You found yourself in a small room. A large fan could be seen ahead, blocking the passage.
+544;Gnome: Should I turn it off?
+545;Quick-sighted: Let's save this option for last.
+546;- Why don't destroy it with a blaster?
+547;Quick-sighted: Because you can see from the fan that it is made of reflective material. It's useless.
+548;- I...just checked that you know too. And if you turn on the shield?
+549;Quick-sighted: You'll be spinning endlessly in the fan and you won't be able to move.
+550;There was a large button on the wall next to the fan. There was a rocket launcher next to you. And behind there is a lever.
+551;There was some kind of hole in the ceiling.
+552;Click on the button
+553;The walls instantly shrank and you were crushed.
+554;Fire a rocket launcher
+555;After the explosion the fan stopped.
+556;Gnome: Now that is what i call covert penetration.
+557;Gnome, your time has come
+558;Gnome went to the fan.
+559;- Wait, what are you doing? He'll cut you down!
+560;Quick-sighted: He will have time to jump between the screws. At least he should.
+561;- This is madness!
+562;You watched with bated breath as Gnome stopped by the fan.
+563;And then he jumped forward horizontally.
+564;After a while, the fan stopped.
+565;Switch the lever
+566;You ended up in the previous room.
+567;Gnome: It’s interesting how the movement works here.
+568;You turned on the TV again and found yourself in a room with a fan.
+569;- Shall we climb over the top?
+570;Gnome: Then I'll climb. Who knows what will be there.
+571;- And what can you do that we can't?
+572;Gnome: Maybe get through? I'm the smallest.
+573;You climbed on Quick-sighted, and Gnome climbed on you.
+574;Gnome: Damn, too high. Придётся прыгать.
+575;- You kidd...
+576;By some miracle your structure survived the jump.
+577;After a while, the fan stopped.
+578;There was a door behind the fan. And behind it is a large room with a bunch of holograms, like in the movies.
+579;Gnome: Looks like we're here.
+580;Gnome and Quick-sighted began to search for the necessary data.
+581;Gnome: Bingo! I found a man. He will die the day after tomorrow. He is eighty-two years old. Race - human.
+582;Gnome: I wrote down where he lives.
+583;- So simple? No alarms or anything? Why is it even empty here?
+584;Quick-sighted: Data is automatically sent to those responsible for missing residents.
+585;Quick-sighted: The control room is needed just in case.
+586;You find yourself in the dining room again.
+587;Leader: Excellent work, comrades! Gnome, Guest, go to the future victim.
+588;Leader: Quick-sighted and I don't really look like people, so we can't.
+589;Gnome: As a guard, they will have to let me in. No big deal.
+590;- What's the plan anyway?
+591;Leader: You will need to install cameras that are invisible to the eye throughout the house.
+592;Leader: This is how we find out if someone is taking the residents.
+593;Leader: If teleports are used, the cameras won't help us.
+594;Leader: Therefore, a tracking device is required.
+595;- And where do we attach it?
+596;Leader: It's a tiny drone. You take it with you, and I will handle it.
+597;Leader: I'll fly through the nose and land somewhere in the lung area. So the drone will definitely survive.
+598;We were standing in front of an ordinary-looking house.
+599;Gnome: Well, here we are. You distract him by talking, and I'll do everything..
+600;- It's not fair!
+601;Gnome: Do you know how to attach cameras? Unnoticed.
+602;- So teach me!
+603;Gnome: There is no time. What if we're already late?
+604;He rang the doorbell.
+605;It was really an old man who opened the door, except a too cheerful one.
+606;And not to say that the day after tomorrow he will be gone.
+607;Everything went great.
+608;The day after tomorrow. It was decided to monitor the cameras in pairs to not to miss anything.
+609;Finally, someone appeared in the house and disappeared along with the resident.
+610;Gnome: All rise! It's started!
+611;Leader: I knew that if they take away residents, it will be with the help of teleports!
+612;Gnome: What about the tracking device?
+613;Leader: I'll take a look now, while you check the recording and find out who it was.
+614;Gnome: This is Kh'arg!
+615;Leader: So whoever meets also sees off.
+616;Leader: They are at the very top of the knowledge repository. You can't get there without access.
+617;- So what now? We are convinced that something is wrong. But there is no permission.
+618;Leader: I think I've come up with a plan. But you won't like it.
+619;Leader: We will change the date of death of one of us to the next few days..
+620;Leader: With the help of some devices we will be able to experience everything together with him.
+621;Leader: This is how we will find out what happens to the residents after the teleport.
+622;Leader: We need to make sure that something is wrong here. Maybe they're just being sent home..
+623;Quick-sighted: Let me.
+624;- Why not me? After all, i'm the most useless.
+625;Leader: You definitely can't. You weren't supposed to be here at all.
+626;Leader: And we wouldn't have succeeded without you.
+627;Leader: And we have been ready for the worst case scenario for a long time.
+628;Leader: Besides, Kh'arg knows that you got here by mistake and will immediately suspect something is wrong.
+629;Gnome: And why not me?
+630;Leader: Because you won't be noticed.
+631;Gnome took a deep breath.
+632;- And why don't you?
+633;Leader: I have little paws.
+634;We have successfully changed Quick-sighted's death date to the day after tomorrow.
+635;Before that day, he swallowed something like a pill, and we all connected to special devices.
+636;Thanks to this, we could live a Quick-sighted life with him, feeling the same as he did.
+637;The day after tomorrow Kh'arg appeared before Quick-sighted. They immediately teleported to the top floor of the repository.
+638;Kh'arg immediately disappeared.
+639;A white, half-transparent man appeared in front of Quick-sighted.
+640;He held out his hand and you felt the Quick-sighted begin to lose strength.
+641;The man screamed, fell to his knees and began coughing and choking.
+642;Another person came to the sounds, also white and transparent.
+643;The second transparent: Rackford! What happened?
+644;Rackford: Velgem, you know...that I have... allergy... on the life force.
+645;Velgem looked at Quick-sighted.
+646;Velgem: You are a guard, why are you here? Changed your death date! Do you see what this has led to?
+647;Velgem: Well, okay. Calm down, just calm down. What do you want to keep quiet?
+648;Quick-sighted: I want to know the truth. About everything that happens here. And in other complexes.
+649;Quick-sighted: About you two and about the project "Happiness". In general, about everything.
+650;Velgem: Don't you want too much? You are in my power. Suppose I tell you, what will you do then?
+651;Quick-sighted: Depends on what I hear.
+652;Rackford has already stopped coughing and choking.
+653;Velgem: It's even funny. All right, have it your way. There's nothing you can do to me anyway.
+654;Velgem: We are representatives of one of the oldest races. Even its name has been forgotten.
+655;Velgem: Our race is capable of accumulating energy indefinitely and converting it into magic.
+656;Velgem: As soon as the space runs out, the energy begins to shrink and can be accumulated further.
+657;Velgem: Our race can live forever. Is there a catch? I don’t know, although I’ve been looking for an answer for a long time.
+658;Velgem: We were born about a billion years ago. We were neighbours, played together and became friends.
+659;Velgem: At twenty-five, Rackford went on a business trip to a distant planet.
+660;Velgem: And there he caught something. An incurable disease that drains his strength.
+661;Velgem: The only way to keep him alive was to be able to provide access to energy.
+662;Velgem: At the same time, he is allergic to vital energy.
+663;Velgem: And his body does not assimilate other types. And what remains?
+664;Velgem: His body could last a few more years and I was trying to find the right kind of energy.
+665;Velgem: One day I thought - what if I let him suck out a creature that is dying?
+666;Velgem: After all, then there will be a minimum of vital energy and allergies should not work.
+667;Velgem: And so it turned out. And the energy was absorbed by the body!
+668;Velgem: And then I noticed that the effectiveness varies greatly from case to case.
+669;Velgem: So what's the matter? It turned out that the biggest influence was how happy the creature was.
+670;Velgem: That's how the idea of complexes arose.
+671;Velgem: Thanks to the magic and technology of printing anything, people are happy here!
+672;Velgem: The project is working and some countries have already even partially implemented it for law-abiding citizens.
+673;Quick-sighted: You kidnap creatures against their will! It's wrong!
+674;Velgem: By no means. First of all, I always ask, does a creature want all its desires fulfilled?
+675;Velgem: Want to live for own pleasure and not depend on anyone?
+676;Quick-sighted: But no one will say "No" to such questions.	.
+677;Velgem: Well why? Suspicious ones will ask everything. Some even refuse. What's wrong?
+678;Quick-sighted: People don't know they're going to die in a year. And what do they sign up for.
+679;Velgem: Right. But how could they live happily knowing that they were going to die soon? The answer is obvious.
+680;Quick-sighted: Why don't you let the creatures come back?
+681;Velgem: There were no willings yet.
+682;Quick-sighted: Why should I even trust you?
+683;Velgem: You shouldn't. But why would I lie?
+684;Quick-sighted: Where do the residents disappear to? Well, the the energy will be sucked out of them, but the bodies must remain.
+685;Velgem: We can completely absorb creatures, splitting them into energy. Not even an atom remains.
+686;Quick-sighted: What's the point of guards if you already have so much energy?
+687;Velgem: It's simple. First of all, I also need sleep and rest. And the complex will not be without protection at this time.
+688;Velgem: Secondly, I can't keep track of everything at once. Thirdly, I am alone, but there are many complexes.
+689;Quick-sighted: How much longer are you going to kill creatures to prolong Rackford's life?
+690;Velgem: Until I make the medicine. And generally speaking...
+691;Velgem: I don't kill creatures! I don't absorb energy by whole galaxies, although I could!
+692;Velgem: That way I would have accumulated the right amount long ago. But this is wrong.
+693;Velgem: Sucking out creatures that are about to die is the best option. It's not hurting anyone..
+694;Quick-sighted: And when will you make the medicine? And anyway, wouldn't one complex be enough?
+695;Velgem: It's complicated. About eight hundred million years ago I was in one of the distant worlds.
+696;Velgem: There I came across a curious island. No one has been sick on it for a long time. There was no crime.
+697;Velgem: No wars or even fights. It turned out that local magicians had come up with a very complicated spell.
+698;Velgem: It allows you to change reality itself, removing aggression, disease, hatred, and so on.
+699;Velgem: But their strength was only enough for the island. And it took a lot of sacrifices.
+700;Velgem: I want to reproduce this spell for the whole universe, and this requires a lot of energy..
+701;Quick-sighted: How do I know you don't want to destroy the universe?
+702;Velgem: I could have destroyed it four hundred million years ago, I had enough energy.
+703;Velgem: But creation requires significantly higher costs.
+704;Velgem: And this is the only way I know to heal a friend.
+705;Quick-sighted: But why can't you just cast a spell on him?
+706;Velgem: The spell has one peculiarity - it only works in the homeland. And you shouldn't leave it.
+707;Velgem: Our homeworld was destroyed long ago as a result of a collision with another planet.
+708;Velgem: And if the spell works on the whole universe, then everyone will be in their homeland..
+709;Velgem: After all, we were all born and live in the universe!
+710;Quick-sighted: And what if it doesn't work?
+711;Velgem: It will work, I have calculated everything a long time ago.
+712;Quick-sighted: Each race considered many things impossible until it developed its own level of technology.
+713;Velgem: I have thoroughly studied that island and this spell. Everything will work out.
+714;Velgem: But it will take at least another five hundred million years, taking into account the expansion of the universe.
+715;Quick-sighted: Diseases are natural and cannot be eliminated! No one can predict how this will affect!
+716;Velgem: That's nonsense. All the oldest races are sufficiently developed and have cures for all diseases.
+717;Velgem: So what's the difference - being able to cure all diseases or destroy them forever?
+718;Velgem: And nothing bad ever happened to that island. I'm keeping a close eye on it.
+719;Quick-sighted: Why don't you absorb solar energy? The energy of wind, tides, and so on?
+720;Quick-sighted: The one that goes nowhere.
+721;Velgem: The spell requires energy received from creatures. How can I explain...
+722;Velgem: Roughly speaking, it has a different composition. That's why the magicians needed a sacrifice.
+723;Quick-sighted: You're talking about magic. What does it mean?
+724;Velgem: It's almost like in books and movies. Few have access to magic, our race is one of the few.
+725;Velgem: But it's better in practice, right? Now I'll absorb some solar energy.
+726;Velgem disappeared and returned after a while.
+727;He created a fireball the size of half a room, then lightning, then a tree.
+728;For a while, he soared into the air and flew.
+729;Velgem: Well, is that enough? Will you keep silent?
+730;Quick-sighted: So many things. It's hard to say, need to think about it. And if I tell someone, then what?
+731;Velgem: Do you mean someone else besides your friends who are watching you?
+732;Quick-sighted stunned.
+733;Velgem: I don't recommend it.
+734;Velgem: If you do not keep your word, I will erase the memory of you and everyone you tell.
+735;Quick-sighted: So you're not going to kill or suck out?
+736;Velgem: Of course not.
+737;Quick-sighted: Okay, then I'll...go?
+738;Velgem: I hope you will do the right thing.
+739;Quick-sighted teleported to you.
+740;Quick-sighted: And what are we going to do? It's not that bad. Even though I don't like it.
+741;- Wait. What about those two guards who got me here?
+742;Leader: They wanted to live on Earth. Therefore, no longer guards.
+743;- Can't they tell everyone about this place?
+744;Leader: I think Velgem will make sure they don't do that.
+745;Gnome: So what's the plan?
+746;Leader: None yet. Everything turned out to be more complicated than I thought.
+747;- They need to be stopped
+748;- We need to tell the world the truth
+749;- I'll stay here
+750;- I'm flying home
+751;- I will help Velgem
+752;Leader: How? You've seen what Velgem is capable of.
+753;- If we change the date of death for one of us, Rockford will not be able to move due to allergies.
+754;- And we can destroy it! Only Velgem will remain.
+755;Gnome: Just the strongest, big deal.
+756;Leader: It's not even that he's the strongest. Many questions remain.
+757;Leader: What if they are immortal? And that's why they can live forever?
+758;Leader: What will Velgem do after the death of a friend?
+759;Leader: He has been accumulating energy for it for a billion years. Could destroy the universe.
+760;- I don't think he's going to do that. So will accumulate energy for the spell..
+761;Leader: I wouldn't be so sure. Okay, let's assume. Rackford destroyed. How to defeat Velgem?
+762;Leader: And what if he calls the rest of the guards to destroy us? Are we going to kill them too?
+763;Leader: Besides, you're already proposing to kill them instead of stopping them. It's a completely different story.
+764;- Because the only chance to stop them is to kill. I don't think they can go to jail.
+765;- I don’t know how to kill Velgem. I don't know what to do if he calls the guards. They are innocent.
+766;Gnome: What if we take Rackford hostage?
+767;Quick-sighted: And what's next?
+768;Velgem: Yes, and what's next?
+769;We simultaneously turned towards the sound.
+770;Velgem: You can't stop me. But you are really capable of harming Rackford.
+771;Velgem: And I won't let that happen. Therefore, I will erase your memory of this conversation and you will start it again.
+772;Velgem: No longer thinking about killing Rackford.
+773;- There is something like a social network, but on a universe scale?
+774;Leader: Generally speaking, everything is not so simple, but there is. What do you propose to post?
+775;- Everything we know
+776;- How powerful is Velgem. How exactly he want to heal Rackford. And how he kidnaps creatures.
+777;Suddenly Velgem appeared in front of us.
+778;Velgem: I won't let you do this.
+779;- What, are you afraid of the truth, Mr. Universe?
+780;Velgem: If you tell the whole truth, everyone will know how much energy I have already absorbed.
+781;Velgem: I'll be hunted down to be used as a weapon.
+782;Velgem: And Rackford - as a hostage, so that I obey.
+783;Velgem: You have no idea how powerful and dangerous creatures exist.
+784;Velgem: Moreover, this way I will never cure Rackford, because energy will be spent on the needs of the owners.
+785;Velgem: I will erase your memory and you will return to the discussion.
+786;Velgem: Without even thinking about posting data online.
+787;- All about Rackford's disease
+788;- But let's not talk about Velgem. Because it is unlikely that he will allow such a thing to be posted.
+789;Quick-sighted: Ha, that's for sure.
+790;You couldn't even imagine what this would lead to.
+791;Scientists from all over the universe are interested in Rackford's disease. No medications helped.
+792;What interested everyone most was that life could only be sustained by the energy of happiness.
+793;After decades of hard work, scientists have learned how to synthesize the energy of happiness.
+794;And then created many mechanisms that allow to convert different types of energy into happiness.
+795;Thanks to this, Rackford was always healthy. And Velgem was able to accumulate energy for a spell much faster.
+796;Velgem was recognized as the hero of the Universe. He insisted on recognizing your entire group as heroes as well.
+797;Many streets and universities have been named after you.
+798;But there was also a downside. What can be created can also be destroyed.
+799;Authorities around the world have used this energy as incentive to enforce absurd laws..
+800;And in case of problems, happiness was taken away from the residents.
+801;Criminals have learned to use it as a drug.
+802;- We've been through a lot together. Who knows, maybe I'll still be useful.
+803;- Just let them create conditions for me, as for all residents. And so on until the very end of life.
+804;- In exchange for my silence.
+805;Leader: Great plan! I think Velgem won't mind.
+806;- And so that they don’t come for me anymore
+807;- I've already been here, haven't I? You can't get here twice.
+808;- And I shouldn't.
+809;- And erase my memory
+810;Fly away
+811;Just fly away
+812;You lived on Earth. From time to time missed your friends from the Moon.
+813;And a year before death came here again.
+814;You were happy to meet your friends, but the joy was overshadowed by the knowledge of what lies ahead.
+815;Just wait to die
+816;Let Welgem suck you out
+817;- Let's not muck about. What's the point of waiting for your fate for a whole year?
+818;- Suck out my energy now and get it over with.
+819;Velgem: You're doing the right thing.
+820;- I want to forget all this. What I learned is too difficult for the ordinary person.
+821;Leader: I understand. Even though you forget it, know that you are not an ordinary person.
+822;- Farewell, friends.
+823;Leader: Farewell, friend.
+824;Gnome: Know that you will always be in our hearts.
+825;Quick-sighted couldn't find what to say.
+826;You lived the rest of your life on Earth.
+827;You lived the rest of your life on Earth, periodically recalling your adventures.
+828;You lived on Earth.
+829;And a year before death came here again.
+830;As an ordinary resident.
+831;Velgem: I appreciate it. It's true. Thank you.
+832;Velgem: I never thought before that there could be volunteers. It's a great idea!
+833;Velgem: The sooner I can cast the spell, the more creatures I can save.
+834;Now Velgem was looking all over the universe for volunteers.
+835;People who have no meaning in life. Terminally ill.
+836;People who live in terrible conditions. Or constant suffering.
+837;Some of them agreed. To those who refused, he simply erased the memory of the conversation.
+838;Thanks to this, the spell was cast two hundred million years earlier.
+839;Velgem has been recognized as a hero of the universe. Monuments were erected to him in all corners of the world.
+840;Many streets and universities were named after him.
+841;But also in honor of you. Velgem spoke about your feat and insisted that you too be recognized as a hero.
+842;Leader: In what sense?
+843;- I think his goal is worth the sacrifice. Voluntary, of course. And I want to become one of them.
+844;- I'll let him suck my life out.
+845;Quick-sighted: For what? You still have to live!
+846;- With the energy of happiness alone, he will accumulate energy for a long time. I want to speed up the process.

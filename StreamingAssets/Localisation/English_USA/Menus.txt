@@ -1,0 +1,15 @@
+newGame;New Game
+load;Load
+settings;Settings
+exit;Exit
+menu;Menu
+mainMenu;Main menu
+exitGame;Exit the game
+thankAuthor;Thank the author
+continue;Continue
+doNotTouchSaveFiles;Don't touch save files!
+delete;Delete
+rename;Rename
+save;Save
+endings;Endings
+back;Back

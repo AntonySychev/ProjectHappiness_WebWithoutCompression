@@ -1,0 +1,6 @@
+yes;نعم
+no;لا
+quitGame;?إنهاء اللعبة
+quitToMainMenu;?استقال إلى القائمة الرئيسية
+close;يغلق
+fileExistsOrNameContainsForbiddenCharacters;الملف موجود أو الاسم يحتوي على أحرف ممنوعة!

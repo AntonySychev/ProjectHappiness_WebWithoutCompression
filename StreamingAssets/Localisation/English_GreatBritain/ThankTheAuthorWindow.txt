@@ -1,0 +1,6 @@
+copyTip;To copy a number, click on its button. Transfer wherever it is convenient for you!
+sberbankCard;Sberbank Mir card (not just rubles)
+yooMoneyWallet;YooMoney Wallet (not just rubles)
+promsvyazbankCard;Promsvyazbank Mir card
+gazprombankCard;Gazprombank Mir card
+closeWindow;Close the window

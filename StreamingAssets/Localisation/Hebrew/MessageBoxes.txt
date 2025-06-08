@@ -1,0 +1,6 @@
+yes;.כן
+no;.לא
+quitGame;?לצאת מהמשחק
+quitToMainMenu;?לצאת לתפריט הראשי
+close;סגור
+fileExistsOrNameContainsForbiddenCharacters;הקובץ קיים או שהשם מכיל תווים אסורים!

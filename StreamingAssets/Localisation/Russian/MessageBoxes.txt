@@ -1,0 +1,6 @@
+yes;Да
+no;Нет
+quitGame;Выйти из игры?
+quitToMainMenu;Выйти в главное меню?
+close;Закрыть
+fileExistsOrNameContainsForbiddenCharacters;Файл существует или наименование содержит запрещённые символы!

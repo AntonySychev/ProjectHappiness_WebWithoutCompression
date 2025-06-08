@@ -1,0 +1,15 @@
+newGame;Новая игра
+load;Загрузить
+settings;Настройки
+exit;Выйти
+menu;Меню
+mainMenu;Главное меню
+exitGame;Выйти из игры
+thankAuthor;Поблагодарить автора
+continue;Продолжить
+doNotTouchSaveFiles;Не трогайте файлы сохранений!
+delete;Удалить
+rename;Переименовать
+save;Сохранить
+endings;Концовки
+back;Назад

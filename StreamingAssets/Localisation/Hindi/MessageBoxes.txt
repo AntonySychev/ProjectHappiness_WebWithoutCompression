@@ -1,0 +1,6 @@
+yes;हाँ
+no;नहीं
+quitGame;गेम से बाहर निकलें?
+quitToMainMenu;मुख्य मेनू से बाहर निकलें?
+close;बंद करना
+fileExistsOrNameContainsForbiddenCharacters;फ़ाइल मौजूद है या नाम में निषिद्ध वर्ण हैं!

@@ -1,0 +1,11 @@
+language;आयतन
+maximumFPS;अधिकतम फ़्रेम/सेकंड
+volume;आयतन
+apply;आवेदन करना
+default;गलती करना
+back;पीछे
+controlSettings;नियंत्रण सेटिंग्स
+cancel;रद्द करना
+keyboard;कीबोर्ड
+graduallyShowingText;पाठ का क्रमिक प्रदर्शन
+autosaves;ऑटोसेव्स

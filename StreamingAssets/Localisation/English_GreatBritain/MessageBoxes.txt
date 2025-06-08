@@ -1,0 +1,6 @@
+yes;Yes
+no;No
+quitGame;Quit game?
+quitToMainMenu;Quit to main menu?
+close;Close
+fileExistsOrNameContainsForbiddenCharacters;The file exists or the name contains forbidden characters!

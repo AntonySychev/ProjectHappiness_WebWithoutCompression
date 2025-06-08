@@ -1,0 +1,11 @@
+language;語言
+maximumFPS;最大幀數/秒
+volume;體積
+apply;申請
+default;預設
+back;後退
+controlSettings;控制設定
+cancel;取消
+keyboard;鍵盤
+graduallyShowingText;文字逐漸顯示
+autosaves;自動儲存

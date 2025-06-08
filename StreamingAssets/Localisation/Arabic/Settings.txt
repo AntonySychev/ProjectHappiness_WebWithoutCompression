@@ -1,0 +1,11 @@
+language;لغة
+maximumFPS;الحد الأقصى للإطارات/ثانية
+volume;مقدار
+apply;يتقدم
+default;تقصير
+back;خلف
+controlSettings;إعدادات التحكم
+cancel;يلغي
+keyboard;لوحة المفاتيح
+graduallyShowingText;العرض التدريجي للنص
+autosaves;الحفظ التلقائي

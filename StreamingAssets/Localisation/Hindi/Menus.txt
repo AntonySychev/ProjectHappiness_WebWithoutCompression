@@ -1,0 +1,15 @@
+newGame;नया खेल
+load;भार
+settings;समायोजन
+exit;बाहर निकलना
+menu;मेनू
+mainMenu;मुख्य मेन्यू
+exitGame;खेल से बाहर निकलें
+thankAuthor;लेखक को धन्यवाद
+continue;जारी रखना
+doNotTouchSaveFiles;सहेजी गई फ़ाइलों को न छुएं!
+delete;मिटाना
+rename;नाम बदलें
+save;बचाना
+endings;अंत
+back;पीछे

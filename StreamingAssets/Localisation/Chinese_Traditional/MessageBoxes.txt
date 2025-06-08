@@ -1,0 +1,6 @@
+yes;是的
+no;不
+quitGame;退出遊戲？
+quitToMainMenu;退出到主菜單？
+close;關閉
+fileExistsOrNameContainsForbiddenCharacters;文件存在或名稱包含禁用字元！

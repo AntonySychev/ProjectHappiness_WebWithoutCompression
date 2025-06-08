@@ -1,0 +1,11 @@
+language;Язык
+maximumFPS;Максимум кадров/сек
+volume;Громкость
+apply;Применить
+default;По умолчанию
+back;Назад
+controlSettings;Настройки управления
+cancel;Отменить
+keyboard;Клавиатура
+graduallyShowingText;Постепенный показ текста
+autosaves;Автосохранения

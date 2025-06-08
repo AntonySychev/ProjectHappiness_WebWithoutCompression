@@ -1,0 +1,15 @@
+newGame;لعبة جديدة
+load;تحميل
+settings;الإعدادات
+exit;خروج
+menu;القائمة
+mainMenu;القائمة الرئيسية
+exitGame;اخرج من اللعبة
+thankAuthor;أشكر المؤلف
+continue;يكمل
+doNotTouchSaveFiles;لا تلمس حفظ الملفات!
+delete;يمسح
+rename;إعادة تسمية
+save;حفظ
+endings;النهايات
+back;خلف

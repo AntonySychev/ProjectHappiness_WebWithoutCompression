@@ -1,0 +1,11 @@
+language;שפה
+maximumFPS;מקסימום מסגרות/שנייה
+volume;נפח
+apply;להגיש מועמדות
+default;בְּרִירַת מֶחדָל
+back;חזור
+controlSettings;הגדרות שליטה
+cancel;לְבַטֵל
+keyboard;מקלדת
+graduallyShowingText;הצגה הדרגתית של טקסט
+autosaves;שמירה אוטומטית

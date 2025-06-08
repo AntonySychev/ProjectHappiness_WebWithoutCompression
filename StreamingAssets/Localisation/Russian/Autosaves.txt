@@ -1,0 +1,19 @@
+autosave;Автосохранение
+Need to get up;Нужно вставать
+The bottle;Бутылка
+UFO;НЛО
+Cell;Камера
+Guards;Стража
+Portals;Порталы
+Orange portal;Оранжевый портал
+Panel;Пульт
+Green portal;Зелёный портал
+Flower;Цветок
+Stream;Ручей
+Soups;Супы
+Pyramide;Пирамида
+Spider;Паук
+Bar;Бар
+Office;Кабинет
+Fan;Вентилятор
+Plan;План

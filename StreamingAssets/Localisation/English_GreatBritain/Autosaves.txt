@@ -1,0 +1,19 @@
+autosave;Autosave
+Need to get up;Need to get up
+The bottle;The bottle
+UFO;UFO
+Cell;Cell
+Guards;Guards
+Portals;Portals
+Orange portal;Orange portal
+Panel;Panel
+Green portal;Green portal
+Flower;Flower
+Stream;Stream
+Soups;Soups
+Pyramide;Pyramide
+Spider;Spider
+Bar;Bar
+Office;Office
+Fan;Fan
+Plan;Plan

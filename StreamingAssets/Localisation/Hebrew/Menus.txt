@@ -1,0 +1,15 @@
+newGame;משחק חדש
+load;הורד
+settings;הגדרות
+exit;צא החוצה
+menu;תפריט
+mainMenu;תפריט ראשי
+exitGame;צא מהמשחק
+thankAuthor;תודה למחבר
+continue;לְהַמשִׁיך
+doNotTouchSaveFiles;אל תיגע בשמירת קבצים!
+delete;לִמְחוֹק
+rename;שנה שם
+save;להציל
+endings;סופים
+back;חזור
