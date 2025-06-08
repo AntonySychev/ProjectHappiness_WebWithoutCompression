@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # ProjectHappiness_WebWithoutCompression
 A text quest in a rare genre of plot comedy with a fair amount of absurd humor and spicy notes of philosophy. Just a few references – I couldn't come up with any more there was no room for more.
 You wake up and there's not a soul around. What's happening? What is the project "Happiness"? In search of answers you will go through dangerous adventures. Your choices are very important, but they can have unpredictable consequences.
